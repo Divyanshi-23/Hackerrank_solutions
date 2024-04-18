@@ -7,7 +7,6 @@ import java.util.regex.*;
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         Scanner sc = new Scanner(System.in);
         ArrayList<int[]> list1 = new ArrayList<>();
         ArrayList<int[]> list2 = new ArrayList<>();
